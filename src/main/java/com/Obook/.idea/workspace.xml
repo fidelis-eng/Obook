@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e25d5ded-2595-4062-9653-e39ec552cb13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Approval.java" beforeDir="false" afterPath="$PROJECT_DIR$/Approval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Appsql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Authenticate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseRelation/Appsql.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseRelation/Appsql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseRelation/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseRelation/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnPoint-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OnPoint-main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration/Authenticate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration/userAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/Registration/userAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userAuth.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21e7ElqFhb6cSdYl8tO2XlIKPLN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP/wafiJmartDR" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.49770114" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.OnPoint" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.OnPoint.Main" />
+      <module name="OnPoint-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25d5ded-2595-4062-9653-e39ec552cb13" name="Changes" comment="" />
+      <created>1638289597679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638289597679</updated>
+      <workItem from="1638289601549" duration="2045000" />
+      <workItem from="1638300800260" duration="3791000" />
+      <workItem from="1638329497797" duration="3054000" />
+      <workItem from="1638340035544" duration="4139000" />
+      <workItem from="1638355529200" duration="1437000" />
+      <workItem from="1638405368638" duration="35710000" />
+      <workItem from="1638471810871" duration="8585000" />
+      <workItem from="1638498328145" duration="17515000" />
+      <workItem from="1638523473814" duration="143000" />
+      <workItem from="1638633887040" duration="85000" />
+      <workItem from="1638852887628" duration="5636000" />
+      <workItem from="1638898060375" duration="1064000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

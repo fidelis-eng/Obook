@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f1a689d-8289-4fa7-aa7e-dc9b64f771b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/MainPage.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21y3s43GhAb47dZx9JFeYTFW9fF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49770114" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ilmu\sem 5\OOP\Obook\src\main\resources\templates" />
+      <recent name="F:\ilmu\sem 5\RPL\OnPoint\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ilmu\sem 5\OOP\Obook\src\main\resources\templates\assets\images" />
+      <recent name="F:\ilmu\sem 5\OOP\Obook\src\main\java\com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Obook" />
+      <recent name="com.Obook.Controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Obook">
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Obook" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="OnPoint.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.OnPoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Obook.Obook" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests#1" />
+      <item itemvalue="HTTP Request.generated-requests#2" />
+      <item itemvalue="Spring Boot.Obook" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#2" />
+        <item itemvalue="HTTP Request.generated-requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1a689d-8289-4fa7-aa7e-dc9b64f771b2" name="Changes" comment="" />
+      <created>1638899708185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638899708185</updated>
+      <workItem from="1638899710141" duration="7566000" />
+      <workItem from="1639076198875" duration="4695000" />
+      <workItem from="1639104758655" duration="4209000" />
+      <workItem from="1639123343645" duration="30764000" />
+      <workItem from="1639172551278" duration="3218000" />
+      <workItem from="1639223425369" duration="6144000" />
+      <workItem from="1639243942685" duration="19390000" />
+      <workItem from="1639303333344" duration="10000" />
+      <workItem from="1639303414247" duration="593000" />
+      <workItem from="1639404719711" duration="990000" />
+      <workItem from="1639406029012" duration="6637000" />
+      <workItem from="1639441122660" duration="38000" />
+      <workItem from="1639478381012" duration="1780000" />
+      <workItem from="1639490232282" duration="7676000" />
+      <workItem from="1639532688969" duration="622000" />
+      <workItem from="1639545876404" duration="10306000" />
+      <workItem from="1639581103280" duration="9274000" />
+      <workItem from="1639590602215" duration="12139000" />
+      <workItem from="1639634290272" duration="1161000" />
+      <workItem from="1639650523696" duration="8000" />
+      <workItem from="1639663481273" duration="12778000" />
+      <workItem from="1639698893331" duration="518000" />
+      <workItem from="1639701253634" duration="2090000" />
+      <workItem from="1639705514222" duration="626000" />
+      <workItem from="1639714123063" duration="261000" />
+      <workItem from="1639722676103" duration="2791000" />
+      <workItem from="1639735662955" duration="106000" />
+      <workItem from="1639783008568" duration="44000" />
+      <workItem from="1640059010258" duration="671000" />
+      <workItem from="1640059892064" duration="208000" />
+      <workItem from="1640060594460" duration="161000" />
+      <workItem from="1640060863219" duration="19057000" />
+      <workItem from="1640146858900" duration="252000" />
+      <workItem from="1640169444177" duration="11628000" />
+      <workItem from="1640246414629" duration="877000" />
+      <workItem from="1640247374844" duration="14439000" />
+      <workItem from="1640370062839" duration="37447000" />
+      <workItem from="1640481324441" duration="75000" />
+      <workItem from="1640482227818" duration="3959000" />
+      <workItem from="1640515350865" duration="2334000" />
+      <workItem from="1640520218006" duration="9143000" />
+      <workItem from="1640533416894" duration="6220000" />
+      <workItem from="1640595264238" duration="122000" />
+      <workItem from="1640643498146" duration="2742000" />
+      <workItem from="1642241584970" duration="87000" />
+      <workItem from="1657303442854" duration="1087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
